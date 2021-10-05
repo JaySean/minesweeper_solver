@@ -1,4 +1,3 @@
-import display
 import generator
 import warnings
 from scipy.optimize import linprog

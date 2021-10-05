@@ -39,6 +39,7 @@ Place input data in input.txt
 ```
 python3 solver.py
 ```
+Output will be printed in the terminal and saved to output.txt
 
 ## Test Cases
 ```

@@ -29,7 +29,7 @@ Given a table of cells, with each number representing the number of mines on its
 
 ## Setup
 ```
-https://github.com/JaySean/minesweeper_solver.git
+git clone https://github.com/JaySean/minesweeper_solver.git
 cd minesweeper_solver
 pip install -r requirements.txt
 ```
